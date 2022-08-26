@@ -1,0 +1,1 @@
+[{"accountId":"1-1","cash":0,"credit":1000,"isActive":true},{"accountId":"1-2","cash":500,"credit":1000,"isActive":false},{"accountId":"2-2","cash":400,"credit":1500,"isActive":true},{"accountId":"2-1","cash":500,"credit":1500,"isActive":false},{"accountId":"2-3","cash":200,"credit":1400,"isActive":true},{"accountId":"1-3","cash":200,"credit":850,"isActive":true}]
